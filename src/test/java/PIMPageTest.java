@@ -1,6 +1,8 @@
 import browser.Browser;
+import org.testng.annotations.Listeners;
 import org.testng.annotations.Test;
 
+@Listeners(value = TestListener.class)
 public class PIMPageTest extends BaseTest {
 
     @Test
