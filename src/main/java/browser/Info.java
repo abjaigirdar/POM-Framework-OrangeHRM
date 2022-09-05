@@ -7,3 +7,4 @@ public class Info {
     public static final String userName = "Admin";
     public static final String password = "admin123";
 }
+
