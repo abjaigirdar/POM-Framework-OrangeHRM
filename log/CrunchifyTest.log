@@ -30,3 +30,73 @@
 
 2022-09-03 12:51:33 [main] INFO  WebDriverManager:1197 - Using chromedriver 103.0.5060.134 (resolved driver for Chrome 103)
 2022-09-03 12:51:33 [main] INFO  WebDriverManager:1252 - Exporting webdriver.chrome.driver as /Users/mohammedjaigirdar1/.cache/selenium/chromedriver/mac64/103.0.5060.134/chromedriver
+2022-09-04 23:01:59 [main] INFO  Utils:112 - [[ClassInfoMap]] Unable to open class META-INF.versions.9.module-info - unable to resolve class reference META-INF/versions/9/module-info is not a class because access_flag ACC_MODULE is set
+2022-09-04 23:03:26 [main] INFO  Utils:112 - [TestNG] Running:
+  /Users/mohammedjaigirdar1/Dev Tools/POM-OrangeHRM-Project/POM-OrangeHRM/testNG.xml
+
+2022-09-04 23:03:53 [main] INFO  Utils:112 - [TestNG] Running:
+  /Users/mohammedjaigirdar1/Dev Tools/POM-OrangeHRM-Project/POM-OrangeHRM/testNG.xml
+
+2022-09-04 23:04:23 [main] INFO  Utils:112 - [TestNG] Running:
+  /Users/mohammedjaigirdar1/Dev Tools/POM-OrangeHRM-Project/POM-OrangeHRM/testNG.xml
+
+2022-09-04 23:05:23 [main] INFO  Utils:112 - [TestNG] Running:
+  /Users/mohammedjaigirdar1/Dev Tools/POM-OrangeHRM-Project/POM-OrangeHRM/testNG.xml
+
+2022-09-04 23:05:24 [TestNG-test=Parallel Tests-2] INFO  WebDriverManager:1197 - Using chromedriver 103.0.5060.134 (resolved driver for Chrome 103)
+2022-09-04 23:05:24 [TestNG-test=Parallel Tests-1] INFO  WebDriverManager:1197 - Using chromedriver 103.0.5060.134 (resolved driver for Chrome 103)
+2022-09-04 23:05:24 [TestNG-test=Parallel Tests-2] INFO  WebDriverManager:1252 - Exporting webdriver.chrome.driver as /Users/mohammedjaigirdar1/.cache/selenium/chromedriver/mac64/103.0.5060.134/chromedriver
+2022-09-04 23:05:24 [TestNG-test=Parallel Tests-1] INFO  WebDriverManager:1252 - Exporting webdriver.chrome.driver as /Users/mohammedjaigirdar1/.cache/selenium/chromedriver/mac64/103.0.5060.134/chromedriver
+2022-09-04 23:05:36 [TestNG-test=Parallel Tests-2] INFO  WebDriverManager:1197 - Using chromedriver 103.0.5060.134 (resolved driver for Chrome 103)
+2022-09-04 23:05:36 [TestNG-test=Parallel Tests-2] INFO  WebDriverManager:1252 - Exporting webdriver.chrome.driver as /Users/mohammedjaigirdar1/.cache/selenium/chromedriver/mac64/103.0.5060.134/chromedriver
+2022-09-04 23:07:05 [main] INFO  Utils:112 - [TestNG] Running:
+  /Users/mohammedjaigirdar1/Library/Caches/JetBrains/IdeaIC2022.1/temp-testng-customsuite.xml
+
+2022-09-04 23:07:05 [main] INFO  WebDriverManager:1197 - Using chromedriver 103.0.5060.134 (resolved driver for Chrome 103)
+2022-09-04 23:07:05 [main] INFO  WebDriverManager:1252 - Exporting webdriver.chrome.driver as /Users/mohammedjaigirdar1/.cache/selenium/chromedriver/mac64/103.0.5060.134/chromedriver
+2022-09-04 23:07:30 [main] INFO  Utils:112 - [TestNG] Running:
+  /Users/mohammedjaigirdar1/Library/Caches/JetBrains/IdeaIC2022.1/temp-testng-customsuite.xml
+
+2022-09-04 23:07:31 [main] INFO  WebDriverManager:1197 - Using chromedriver 103.0.5060.134 (resolved driver for Chrome 103)
+2022-09-04 23:07:31 [main] INFO  WebDriverManager:1252 - Exporting webdriver.chrome.driver as /Users/mohammedjaigirdar1/.cache/selenium/chromedriver/mac64/103.0.5060.134/chromedriver
+2022-09-04 23:08:19 [main] INFO  Utils:112 - [TestNG] Running:
+  /Users/mohammedjaigirdar1/Dev Tools/POM-OrangeHRM-Project/POM-OrangeHRM/testNG.xml
+
+2022-09-04 23:08:20 [TestNG-test=Parallel Tests-1] INFO  WebDriverManager:1197 - Using chromedriver 103.0.5060.134 (resolved driver for Chrome 103)
+2022-09-04 23:08:20 [TestNG-test=Parallel Tests-2] INFO  WebDriverManager:1197 - Using chromedriver 103.0.5060.134 (resolved driver for Chrome 103)
+2022-09-04 23:08:20 [TestNG-test=Parallel Tests-2] INFO  WebDriverManager:1252 - Exporting webdriver.chrome.driver as /Users/mohammedjaigirdar1/.cache/selenium/chromedriver/mac64/103.0.5060.134/chromedriver
+2022-09-04 23:08:20 [TestNG-test=Parallel Tests-1] INFO  WebDriverManager:1252 - Exporting webdriver.chrome.driver as /Users/mohammedjaigirdar1/.cache/selenium/chromedriver/mac64/103.0.5060.134/chromedriver
+2022-09-04 23:08:30 [TestNG-test=Parallel Tests-2] INFO  WebDriverManager:1197 - Using chromedriver 103.0.5060.134 (resolved driver for Chrome 103)
+2022-09-04 23:08:30 [TestNG-test=Parallel Tests-2] INFO  WebDriverManager:1252 - Exporting webdriver.chrome.driver as /Users/mohammedjaigirdar1/.cache/selenium/chromedriver/mac64/103.0.5060.134/chromedriver
+2022-09-04 23:11:47 [main] INFO  Utils:112 - [TestNG] Running:
+  /Users/mohammedjaigirdar1/Dev Tools/POM-OrangeHRM-Project/POM-OrangeHRM/testNG.xml
+
+2022-09-04 23:11:48 [TestNG-test=Parallel Tests-2] INFO  WebDriverManager:1197 - Using chromedriver 103.0.5060.134 (resolved driver for Chrome 103)
+2022-09-04 23:11:48 [TestNG-test=Parallel Tests-1] INFO  WebDriverManager:1197 - Using chromedriver 103.0.5060.134 (resolved driver for Chrome 103)
+2022-09-04 23:11:48 [TestNG-test=Parallel Tests-1] INFO  WebDriverManager:1252 - Exporting webdriver.chrome.driver as /Users/mohammedjaigirdar1/.cache/selenium/chromedriver/mac64/103.0.5060.134/chromedriver
+2022-09-04 23:11:48 [TestNG-test=Parallel Tests-2] INFO  WebDriverManager:1252 - Exporting webdriver.chrome.driver as /Users/mohammedjaigirdar1/.cache/selenium/chromedriver/mac64/103.0.5060.134/chromedriver
+2022-09-04 23:12:18 [main] INFO  Utils:112 - [TestNG] Running:
+  /Users/mohammedjaigirdar1/Dev Tools/POM-OrangeHRM-Project/POM-OrangeHRM/testNG.xml
+
+2022-09-04 23:12:18 [TestNG-test=Parallel Tests-1] INFO  WebDriverManager:1197 - Using chromedriver 103.0.5060.134 (resolved driver for Chrome 103)
+2022-09-04 23:12:18 [TestNG-test=Parallel Tests-2] INFO  WebDriverManager:1197 - Using chromedriver 103.0.5060.134 (resolved driver for Chrome 103)
+2022-09-04 23:12:18 [TestNG-test=Parallel Tests-2] INFO  WebDriverManager:1252 - Exporting webdriver.chrome.driver as /Users/mohammedjaigirdar1/.cache/selenium/chromedriver/mac64/103.0.5060.134/chromedriver
+2022-09-04 23:12:18 [TestNG-test=Parallel Tests-1] INFO  WebDriverManager:1252 - Exporting webdriver.chrome.driver as /Users/mohammedjaigirdar1/.cache/selenium/chromedriver/mac64/103.0.5060.134/chromedriver
+2022-09-04 23:12:27 [TestNG-test=Parallel Tests-2] INFO  WebDriverManager:1197 - Using chromedriver 103.0.5060.134 (resolved driver for Chrome 103)
+2022-09-04 23:12:27 [TestNG-test=Parallel Tests-2] INFO  WebDriverManager:1252 - Exporting webdriver.chrome.driver as /Users/mohammedjaigirdar1/.cache/selenium/chromedriver/mac64/103.0.5060.134/chromedriver
+2022-09-04 23:13:28 [main] INFO  Utils:112 - [TestNG] Running:
+  /Users/mohammedjaigirdar1/Dev Tools/POM-OrangeHRM-Project/POM-OrangeHRM/testNG.xml
+
+2022-09-04 23:13:29 [TestNG-test=Parallel Tests-1] INFO  WebDriverManager:1197 - Using chromedriver 103.0.5060.134 (resolved driver for Chrome 103)
+2022-09-04 23:13:29 [TestNG-test=Parallel Tests-2] INFO  WebDriverManager:1197 - Using chromedriver 103.0.5060.134 (resolved driver for Chrome 103)
+2022-09-04 23:13:29 [TestNG-test=Parallel Tests-1] INFO  WebDriverManager:1252 - Exporting webdriver.chrome.driver as /Users/mohammedjaigirdar1/.cache/selenium/chromedriver/mac64/103.0.5060.134/chromedriver
+2022-09-04 23:13:29 [TestNG-test=Parallel Tests-2] INFO  WebDriverManager:1252 - Exporting webdriver.chrome.driver as /Users/mohammedjaigirdar1/.cache/selenium/chromedriver/mac64/103.0.5060.134/chromedriver
+2022-09-04 23:14:01 [main] INFO  Utils:112 - [TestNG] Running:
+  /Users/mohammedjaigirdar1/Dev Tools/POM-OrangeHRM-Project/POM-OrangeHRM/testNG.xml
+
+2022-09-04 23:14:01 [TestNG-test=Parallel Tests-1] INFO  WebDriverManager:1197 - Using chromedriver 103.0.5060.134 (resolved driver for Chrome 103)
+2022-09-04 23:14:01 [TestNG-test=Parallel Tests-1] INFO  WebDriverManager:1252 - Exporting webdriver.chrome.driver as /Users/mohammedjaigirdar1/.cache/selenium/chromedriver/mac64/103.0.5060.134/chromedriver
+2022-09-04 23:14:11 [TestNG-test=Parallel Tests-1] INFO  WebDriverManager:1197 - Using chromedriver 103.0.5060.134 (resolved driver for Chrome 103)
+2022-09-04 23:14:11 [TestNG-test=Parallel Tests-1] INFO  WebDriverManager:1252 - Exporting webdriver.chrome.driver as /Users/mohammedjaigirdar1/.cache/selenium/chromedriver/mac64/103.0.5060.134/chromedriver
+2022-09-04 23:14:20 [TestNG-test=Parallel Tests-1] INFO  WebDriverManager:1197 - Using chromedriver 103.0.5060.134 (resolved driver for Chrome 103)
+2022-09-04 23:14:20 [TestNG-test=Parallel Tests-1] INFO  WebDriverManager:1252 - Exporting webdriver.chrome.driver as /Users/mohammedjaigirdar1/.cache/selenium/chromedriver/mac64/103.0.5060.134/chromedriver
